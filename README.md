@@ -23,3 +23,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0409-longest-palindrome) |
+# Array
+|  |
+| ------- |
+| [0120-triangle](https://github.com/LearnInspire/DSAPrep/tree/master/0120-triangle) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/LearnInspire/DSAPrep/tree/master/0120-triangle) |
