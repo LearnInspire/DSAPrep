@@ -40,3 +40,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/LearnInspire/DSAPrep/tree/master/0633-sum-of-square-numbers) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
