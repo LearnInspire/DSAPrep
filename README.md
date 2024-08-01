@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/LearnInspire/DSAPrep/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/LearnInspire/DSAPrep/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
