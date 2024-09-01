@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LearnInspire/DSAPrep/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/LearnInspire/DSAPrep/tree/master/2727-number-of-senior-citizens) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnInspire/DSAPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
