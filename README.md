@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnInspire/DSAPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LearnInspire/DSAPrep/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
@@ -101,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
