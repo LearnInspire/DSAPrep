@@ -24,7 +24,7 @@ public:
 
         vector<ListNode*> result(k, NULL);
         curr = head;
-        ListNode* prev = curr;
+        ListNode* prev = curr; //extra pointer is needed
 
         for(int i = 0 ; i<k; i++){
             result[i] = curr;
@@ -34,7 +34,7 @@ public:
                 curr = curr->next;
             }
             if(prev != NULL)
-                prev -> next = NULL;
+                prev -> next = NULL; //remove the link
             extraNodes--;
 
         }
