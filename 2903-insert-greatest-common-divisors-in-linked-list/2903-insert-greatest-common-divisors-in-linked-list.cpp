@@ -10,6 +10,9 @@
  */
 class Solution {
 public:
+//Approach-2 (Recursion Story)
+//T.C : O(n)
+//S.C : System stack space due to recursion O(n)
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
                 // Base case: if head is null or there's only one node, return head.
         if (!head || !head->next) {
