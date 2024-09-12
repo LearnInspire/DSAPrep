@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LearnInspire/DSAPrep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LearnInspire/DSAPrep/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LearnInspire/DSAPrep/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/LearnInspire/DSAPrep/tree/master/2727-number-of-senior-citizens) |
@@ -166,5 +169,10 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/LearnInspire/DSAPrep/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Counting
+|  |
+| ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
