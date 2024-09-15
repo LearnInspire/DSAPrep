@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LearnInspire/DSAPrep/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/LearnInspire/DSAPrep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LearnInspire/DSAPrep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Linked List
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/LearnInspire/DSAPrep/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LearnInspire/DSAPrep/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
