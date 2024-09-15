@@ -2,7 +2,7 @@ class Solution {
 public:
     int findTheLongestSubstring(string s) {
         //A1: storing freq of vowels in array of size 5 then storing the array state in strings,
-        //storing the states in map & do look up in map & find the length of the substr
+        //storing the states in map & do look up in map & find the length of the substr, TC: O(n)
         unordered_map<string, int> mp;
 
         vector<int> state(5, 0); //a e i o u(00000)
@@ -13,22 +13,22 @@ public:
         int result = 0;
         for(int i = 0; i < s.length(); i++){
             if(s[i] == 'a'){
-                state[0] = (state[0] + 1) % 2;
+                //state[0] = (state[0] + 1) % 2;//slighter better way is instead of adding 1& finding %2, XOR 1^1 = 0
+                //set bit as 1 if odd or set bit as 0 if even
+                state[0] = state[0]^1;
             }
             else if(s[i] == 'e'){
-                state[1] = (state[1] + 1) % 2;
+                //state[1] = (state[1] + 1) % 2;
+                state[1] = (state[1]^1);
             }
             else if(s[i] == 'i'){
-                state[2] = (state[2] + 1) % 2;
+                state[2] = (state[2]^1);
             }
             else if(s[i] == 'o'){
-                state[3] = (state[3] + 1) % 2;
+                state[3] = (state[3]^1);
             }
             else if(s[i] == 'u'){
-                state[4] = (state[4] + 1) % 2;
-            }
-            else{
-                //for constants, like t l k
+                state[4] = (state[4]^1);
             }
 
         currState = "";
