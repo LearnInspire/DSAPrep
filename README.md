@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/LearnInspire/DSAPrep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -214,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LearnInspire/DSAPrep/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/LearnInspire/DSAPrep/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
