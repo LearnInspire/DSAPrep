@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnInspire/DSAPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LearnInspire/DSAPrep/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
@@ -222,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/LearnInspire/DSAPrep/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
