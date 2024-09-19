@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/LearnInspire/DSAPrep/tree/master/2155-find-missing-observations) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LearnInspire/DSAPrep/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -229,4 +232,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
