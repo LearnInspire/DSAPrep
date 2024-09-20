@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0214-shortest-palindrome) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 ## Brainteaser
@@ -240,4 +242,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
