@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/LearnInspire/DSAPrep/tree/master/0386-lexicographical-numbers) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/LearnInspire/DSAPrep/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Stack
 |  |
 | ------- |
