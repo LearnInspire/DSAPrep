@@ -1,4 +1,4 @@
-//Approach 1 - Brute Force
+/*Approach 1 - Brute Force
 //T.C : O(m⋅log10​M + n⋅log10​N)
 //S.C : O(m⋅log10​M)
 class Solution {
@@ -31,8 +31,8 @@ public:
         return result;
     }
 };
+*/
 
-/*
 //Approach 2 - Using Prefix Tree (TRIE)
 //T.C : O(m⋅d+n⋅d)
 //S.C : O(m⋅d)
@@ -101,4 +101,3 @@ public:
         return result;
     }
 };
-*/
