@@ -3,7 +3,7 @@
  * MyCalendar* obj = new MyCalendar();
  * bool param_1 = obj->book(start,end);
  */
-
+/*
 //Approach-1 : Brute Force 
 //T.C : O(n^2)
 //S.C : O(n)
@@ -27,7 +27,7 @@ public:
         return true;
     }
 };
-/*
+*/
 //Approach - 2 (set : lower_bound) : O(nlog(n))
 //T.C : O(nlogn)
 //S.C : O(n)
@@ -59,7 +59,7 @@ public:
         return true;
     }
 };
-
+/*
 //Approach-3 (Set : Upper bound)
 //T.C : O(nlogn)
 //S.C : O(n)
