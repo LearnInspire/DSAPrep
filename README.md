@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/LearnInspire/DSAPrep/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LearnInspire/DSAPrep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -331,4 +334,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
