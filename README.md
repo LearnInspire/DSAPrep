@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/LearnInspire/DSAPrep/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/LearnInspire/DSAPrep/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
