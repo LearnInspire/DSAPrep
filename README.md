@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/LearnInspire/DSAPrep/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/LearnInspire/DSAPrep/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/LearnInspire/DSAPrep/tree/master/0725-split-linked-list-in-parts) |
