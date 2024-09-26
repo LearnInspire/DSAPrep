@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/LearnInspire/DSAPrep/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/LearnInspire/DSAPrep/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
