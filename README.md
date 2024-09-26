@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/LearnInspire/DSAPrep/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
 ## Number Theory
 |  |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/LearnInspire/DSAPrep/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
@@ -321,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
