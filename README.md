@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/LearnInspire/DSAPrep/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LearnInspire/DSAPrep/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/LearnInspire/DSAPrep/tree/master/0138-copy-list-with-random-pointer) |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/LearnInspire/DSAPrep/tree/master/0725-split-linked-list-in-parts) |
