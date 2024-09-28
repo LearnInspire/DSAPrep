@@ -1,7 +1,7 @@
 //Approach-1 (Using Array)
 //T.C : O(1)
 //S.C : O(k)
-class MyCircularDeque {
+/*class MyCircularDeque {
 public:
     vector<int> deq;
     int K;
@@ -79,5 +79,62 @@ public:
     
     bool isFull() {
         return currentCount == K;
+    }
+};
+*/
+class MyCircularDeque {
+    deque<int> dq;
+    int n;
+public:
+    MyCircularDeque(int k) {
+        n = k;
+    }
+    
+    bool insertFront(int value) {
+        if(dq.size() == n)
+            return false;
+        dq.push_front(value);
+        return true;
+    }
+    
+    bool insertLast(int value) {
+        if(dq.size() == n)
+            return false;
+        dq.push_back(value);
+        return true;
+    }
+    
+    bool deleteFront() {
+        if(dq.size() == 0)
+            return false;
+        dq.pop_front();        
+        return true;
+    }
+    
+    bool deleteLast() {
+        if(dq.size() == 0)
+            return false;
+        dq.pop_back();        
+        return true;
+    }
+    
+    int getFront() {
+        if(dq.size() == 0)
+            return -1;
+        return dq.front();
+    }
+    
+    int getRear() {
+        if(dq.size() == 0)
+            return -1;
+        return dq.back();        
+    }
+    
+    bool isEmpty() {
+        return dq.size() == 0;
+    }
+    
+    bool isFull() {
+        return dq.size() == n;
     }
 };
