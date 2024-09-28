@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/LearnInspire/DSAPrep/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Simulation
 |  |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0725-split-linked-list-in-parts](https://github.com/LearnInspire/DSAPrep/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/LearnInspire/DSAPrep/tree/master/2411-spiral-matrix-iv) |
@@ -263,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
 ## Hash Function
 |  |
 | ------- |
