@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/LearnInspire/DSAPrep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/LearnInspire/DSAPrep/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/1435-xor-queries-of-a-subarray) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LearnInspire/DSAPrep/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/LearnInspire/DSAPrep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/LearnInspire/DSAPrep/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LearnInspire/DSAPrep/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0731-my-calendar-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/LearnInspire/DSAPrep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/LearnInspire/DSAPrep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
