@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/LearnInspire/DSAPrep/tree/master/0432-all-oone-data-structure) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/LearnInspire/DSAPrep/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/LearnInspire/DSAPrep/tree/master/0146-lru-cache) |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
+| [0432-all-oone-data-structure](https://github.com/LearnInspire/DSAPrep/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/LearnInspire/DSAPrep/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/LearnInspire/DSAPrep/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/LearnInspire/DSAPrep/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0731-my-calendar-ii) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
@@ -371,4 +374,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/LearnInspire/DSAPrep/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/LearnInspire/DSAPrep/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
