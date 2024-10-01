@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LearnInspire/DSAPrep/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
