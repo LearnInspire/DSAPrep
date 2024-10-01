@@ -11,8 +11,9 @@
  */
 class Solution {
 public:
-
-    /*Approach 2: store the values in hashmap or set & then find k - root's value in set, if there then return true*/
+    /*Approach 3: we can solve it using bst iterator approach as well explained by Striver
+    /*Approach 2: store the values in hashmap or set & then find k - root's value in set, if there then return true
+    TC:O(n), SC:O(n)   */
     unordered_set<int> st;
     bool findTarget(TreeNode* root, int k){
         if(root == NULL) return false;
