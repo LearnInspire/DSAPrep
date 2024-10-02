@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
+| [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/LearnInspire/DSAPrep/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1293-three-consecutive-odds](https://github.com/LearnInspire/DSAPrep/tree/master/1293-three-consecutive-odds) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LearnInspire/DSAPrep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/LearnInspire/DSAPrep/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/LearnInspire/DSAPrep/tree/master/2411-spiral-matrix-iv) |
