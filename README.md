@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnInspire/DSAPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
