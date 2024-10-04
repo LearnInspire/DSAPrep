@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/LearnInspire/DSAPrep/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/LearnInspire/DSAPrep/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LearnInspire/DSAPrep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
