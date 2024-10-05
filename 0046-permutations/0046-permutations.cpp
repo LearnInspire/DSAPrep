@@ -1,5 +1,30 @@
 class Solution {
 public:
+    //both methods are solved using backtracking
+    //m2: to swap the ele with idx
+    vector<vector<int>> result;
+    int n;
+
+    void solve(int idx, vector<int> &nums){
+        if(idx == n){ //idx is out of bound
+            result.push_back(nums);
+            return;
+        }
+        for(int i = idx; i<n; i++){
+            swap(nums[i], nums[idx]);
+            solve(idx+1, nums);
+            swap(nums[idx], nums[i]);
+        }
+
+    }
+
+    vector<vector<int>> permute(vector<int>& nums) {
+        n = nums.size();
+        int idx = 0;
+        solve(0, nums);
+        return result;
+    }
+    /*m1
     vector<vector<int>> result;
     unordered_set<int> st;
     int n;
@@ -32,5 +57,5 @@ public:
         vector<int> temp;
         solve(temp, nums);
         return result;
-    }
+    }*/
 };
