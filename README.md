@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnInspire/DSAPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LearnInspire/DSAPrep/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/LearnInspire/DSAPrep/tree/master/1677-matrix-diagonal-sum) |
