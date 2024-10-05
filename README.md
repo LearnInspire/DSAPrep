@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
