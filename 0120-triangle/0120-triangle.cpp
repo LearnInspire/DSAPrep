@@ -23,7 +23,7 @@ public:
 
     //Memoization Approach: 
     //time/space: O(n*n) there are two nested loops/O(n*n)
-    int find(int i, int j, vector<vector<int>> &triangle, int n, vector<vector<int>> &dp){
+    /*int find(int i, int j, vector<vector<int>> &triangle, int n, vector<vector<int>> &dp){
         if(dp[i][j] != -1) return dp[i][j];
 
         if(i == n - 1){
@@ -35,6 +35,21 @@ public:
         return dp[i][j] = min(down, diagonal);
     }
 
+    int minimumTotal(vector<vector<int>>& triangle) {
+        int n = triangle.size();
+        vector<vector<int>> dp(n, vector<int>(n, -1));
+        return find(0, 0, triangle, n, dp);
+    }*/
+
+    //Tabulation approach:
+    //time/space: O(n*n)/O(n*n)
+    int find(int i, int j, vector<vector<int>> &triangle, int n, vector<vector<int>> &dp){
+
+        if(dp[i][j] != -1) return dp[i][j];
+        int down = 
+        int diagonal = 
+        return dp[i][j] = min(dow)
+    }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
         vector<vector<int>> dp(n, vector<int>(n, -1));
