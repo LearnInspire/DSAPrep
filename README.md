@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/LearnInspire/DSAPrep/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/LearnInspire/DSAPrep/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/LearnInspire/DSAPrep/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/LearnInspire/DSAPrep/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
@@ -424,4 +426,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/LearnInspire/DSAPrep/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/LearnInspire/DSAPrep/tree/master/0432-all-oone-data-structure) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/LearnInspire/DSAPrep/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
