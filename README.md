@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/LearnInspire/DSAPrep/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/LearnInspire/DSAPrep/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/LearnInspire/DSAPrep/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
