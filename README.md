@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/LearnInspire/DSAPrep/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/LearnInspire/DSAPrep/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
