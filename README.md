@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/LearnInspire/DSAPrep/tree/master/0138-copy-list-with-random-pointer) |
@@ -157,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
