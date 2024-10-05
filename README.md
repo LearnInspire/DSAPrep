@@ -282,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/LearnInspire/DSAPrep/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
@@ -305,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
