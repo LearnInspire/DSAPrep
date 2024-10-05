@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
