@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> result;
     vector<int> path;
-
+    //using backtracking
     void solve(int idx, vector<int>& arr, int target,
                vector<vector<int>>& result, vector<int>& path) {
         if (target < 0)
