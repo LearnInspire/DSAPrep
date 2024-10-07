@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/LearnInspire/DSAPrep/tree/master/0120-triangle) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/LearnInspire/DSAPrep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/1435-xor-queries-of-a-subarray) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/LearnInspire/DSAPrep/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
