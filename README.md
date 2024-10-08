@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/LearnInspire/DSAPrep/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnInspire/DSAPrep/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/LearnInspire/DSAPrep/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/LearnInspire/DSAPrep/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnInspire/DSAPrep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/LearnInspire/DSAPrep/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/LearnInspire/DSAPrep/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0063-unique-paths-ii) |
@@ -514,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnInspire/DSAPrep/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/LearnInspire/DSAPrep/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/LearnInspire/DSAPrep/tree/master/0046-permutations) |
