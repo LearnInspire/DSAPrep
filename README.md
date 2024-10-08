@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/LearnInspire/DSAPrep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnInspire/DSAPrep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/LearnInspire/DSAPrep/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/LearnInspire/DSAPrep/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/LearnInspire/DSAPrep/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/LearnInspire/DSAPrep/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/LearnInspire/DSAPrep/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -531,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/LearnInspire/DSAPrep/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/LearnInspire/DSAPrep/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/LearnInspire/DSAPrep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
 ## Merge Sort
