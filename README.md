@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/LearnInspire/DSAPrep/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/LearnInspire/DSAPrep/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LearnInspire/DSAPrep/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/LearnInspire/DSAPrep/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/LearnInspire/DSAPrep/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
