@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/LearnInspire/DSAPrep/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/LearnInspire/DSAPrep/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0051-n-queens](https://github.com/LearnInspire/DSAPrep/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
 ## Merge Sort
 |  |
 | ------- |
