@@ -16,7 +16,7 @@ public:
 };*/
 
 //memoization(top-down): time/space: O(N)/O(N)
-class Solution{
+/*class Solution{
 public:
     int choose(int ind, vector<int> &nums, vector<int> &dp){
         if(ind == 0) return nums[ind];
@@ -32,7 +32,7 @@ public:
         vector<int> dp(n, -1);
         return choose(n-1, nums, dp);
     }
-};
+};*/
 
 //tabulation(bottom-up approach): time/space: O(n)/O(n)
 /*class Solution{
@@ -60,7 +60,7 @@ public:
 };*/
 
 //space optimization: time/space: O(n)/O(1)
-/*class Solution{
+class Solution{
 public:
     int rob(vector<int> &nums){
         int n = nums.size();
@@ -78,4 +78,4 @@ public:
         }
         return prev;
     }
-};*/
+};
