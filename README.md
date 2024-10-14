@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/LearnInspire/DSAPrep/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/LearnInspire/DSAPrep/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0102-binary-tree-level-order-traversal](https://github.com/LearnInspire/DSAPrep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1036-rotting-oranges](https://github.com/LearnInspire/DSAPrep/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/LearnInspire/DSAPrep/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
