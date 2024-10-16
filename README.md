@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
+| [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LearnInspire/DSAPrep/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LearnInspire/DSAPrep/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LearnInspire/DSAPrep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/LearnInspire/DSAPrep/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/LearnInspire/DSAPrep/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -444,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/LearnInspire/DSAPrep/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
+| [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LearnInspire/DSAPrep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LearnInspire/DSAPrep/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
