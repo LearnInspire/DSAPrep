@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/LearnInspire/DSAPrep/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/LearnInspire/DSAPrep/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/LearnInspire/DSAPrep/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/LearnInspire/DSAPrep/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/LearnInspire/DSAPrep/tree/master/1002-maximum-width-ramp) |
@@ -448,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/LearnInspire/DSAPrep/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/LearnInspire/DSAPrep/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LearnInspire/DSAPrep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/LearnInspire/DSAPrep/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
