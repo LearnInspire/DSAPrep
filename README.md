@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/LearnInspire/DSAPrep/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/LearnInspire/DSAPrep/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/LearnInspire/DSAPrep/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LearnInspire/DSAPrep/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LearnInspire/DSAPrep/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0063-unique-paths-ii) |
