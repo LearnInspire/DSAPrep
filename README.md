@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/LearnInspire/DSAPrep/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LearnInspire/DSAPrep/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/LearnInspire/DSAPrep/tree/master/1304-longest-happy-string) |
@@ -460,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/LearnInspire/DSAPrep/tree/master/0670-maximum-swap) |
+| [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/LearnInspire/DSAPrep/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/LearnInspire/DSAPrep/tree/master/1304-longest-happy-string) |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/LearnInspire/DSAPrep/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/LearnInspire/DSAPrep/tree/master/1497-design-a-stack-with-increment-operation) |
