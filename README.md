@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/LearnInspire/DSAPrep/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/LearnInspire/DSAPrep/tree/master/2155-find-missing-observations) |
@@ -454,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/LearnInspire/DSAPrep/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/LearnInspire/DSAPrep/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/LearnInspire/DSAPrep/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/LearnInspire/DSAPrep/tree/master/1304-longest-happy-string) |
