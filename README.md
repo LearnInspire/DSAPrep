@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
+| [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/LearnInspire/DSAPrep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnInspire/DSAPrep/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/LearnInspire/DSAPrep/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LearnInspire/DSAPrep/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/LearnInspire/DSAPrep/tree/master/0179-largest-number) |
+| [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
 | [0670-maximum-swap](https://github.com/LearnInspire/DSAPrep/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/LearnInspire/DSAPrep/tree/master/0890-lemonade-change) |
@@ -479,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/LearnInspire/DSAPrep/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/LearnInspire/DSAPrep/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
