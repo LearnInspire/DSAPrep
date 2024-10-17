@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LearnInspire/DSAPrep/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LearnInspire/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnInspire/DSAPrep/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LearnInspire/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/LearnInspire/DSAPrep/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LearnInspire/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/LearnInspire/DSAPrep/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/LearnInspire/DSAPrep/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/LearnInspire/DSAPrep/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
