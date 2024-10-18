@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0382-linked-list-random-node](https://github.com/LearnInspire/DSAPrep/tree/master/0382-linked-list-random-node) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/LearnInspire/DSAPrep/tree/master/0670-maximum-swap) |
+| [1086-divisor-game](https://github.com/LearnInspire/DSAPrep/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/LearnInspire/DSAPrep/tree/master/2155-find-missing-observations) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/LearnInspire/DSAPrep/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/LearnInspire/DSAPrep/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
 |  |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
+| [1086-divisor-game](https://github.com/LearnInspire/DSAPrep/tree/master/1086-divisor-game) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
@@ -607,4 +610,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/LearnInspire/DSAPrep/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
