@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0060-permutation-sequence](https://github.com/LearnInspire/DSAPrep/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/LearnInspire/DSAPrep/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0241-different-ways-to-add-parentheses) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnInspire/DSAPrep/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/LearnInspire/DSAPrep/tree/master/0898-transpose-matrix) |
 | [0906-walking-robot-simulation](https://github.com/LearnInspire/DSAPrep/tree/master/0906-walking-robot-simulation) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnInspire/DSAPrep/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnInspire/DSAPrep/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/LearnInspire/DSAPrep/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LearnInspire/DSAPrep/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/LearnInspire/DSAPrep/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnInspire/DSAPrep/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LearnInspire/DSAPrep/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LearnInspire/DSAPrep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
