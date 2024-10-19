@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/LearnInspire/DSAPrep/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/LearnInspire/DSAPrep/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/LearnInspire/DSAPrep/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/LearnInspire/DSAPrep/tree/master/0729-my-calendar-i) |
