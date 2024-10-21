@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/LearnInspire/DSAPrep/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1694-make-sum-divisible-by-p](https://github.com/LearnInspire/DSAPrep/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/LearnInspire/DSAPrep/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/LearnInspire/DSAPrep/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2502-sort-the-people](https://github.com/LearnInspire/DSAPrep/tree/master/2502-sort-the-people) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1304-longest-happy-string](https://github.com/LearnInspire/DSAPrep/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/LearnInspire/DSAPrep/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnInspire/DSAPrep/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/LearnInspire/DSAPrep/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/LearnInspire/DSAPrep/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/LearnInspire/DSAPrep/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/LearnInspire/DSAPrep/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -610,6 +612,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/LearnInspire/DSAPrep/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LearnInspire/DSAPrep/tree/master/0131-palindrome-partitioning) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/LearnInspire/DSAPrep/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/LearnInspire/DSAPrep/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Merge Sort
 |  |
