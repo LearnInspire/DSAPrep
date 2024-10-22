@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LearnInspire/DSAPrep/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1170-shortest-common-supersequence](https://github.com/LearnInspire/DSAPrep/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/LearnInspire/DSAPrep/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/LearnInspire/DSAPrep/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/LearnInspire/DSAPrep/tree/master/1304-longest-happy-string) |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0583-delete-operation-for-two-strings](https://github.com/LearnInspire/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/LearnInspire/DSAPrep/tree/master/1086-divisor-game) |
+| [1170-shortest-common-supersequence](https://github.com/LearnInspire/DSAPrep/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/LearnInspire/DSAPrep/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2755-extra-characters-in-a-string](https://github.com/LearnInspire/DSAPrep/tree/master/2755-extra-characters-in-a-string) |
