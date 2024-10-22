@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/LearnInspire/DSAPrep/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/LearnInspire/DSAPrep/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/LearnInspire/DSAPrep/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/LearnInspire/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/LearnInspire/DSAPrep/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/LearnInspire/DSAPrep/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/LearnInspire/DSAPrep/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/LearnInspire/DSAPrep/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/LearnInspire/DSAPrep/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/LearnInspire/DSAPrep/tree/master/0678-valid-parenthesis-string) |
 | [1086-divisor-game](https://github.com/LearnInspire/DSAPrep/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/LearnInspire/DSAPrep/tree/master/1250-longest-common-subsequence) |
