@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LearnInspire/DSAPrep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/LearnInspire/DSAPrep/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/LearnInspire/DSAPrep/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/LearnInspire/DSAPrep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LearnInspire/DSAPrep/tree/master/0013-roman-to-integer) |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LearnInspire/DSAPrep/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/LearnInspire/DSAPrep/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LearnInspire/DSAPrep/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LearnInspire/DSAPrep/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -494,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LearnInspire/DSAPrep/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/LearnInspire/DSAPrep/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LearnInspire/DSAPrep/tree/master/0053-maximum-subarray) |
