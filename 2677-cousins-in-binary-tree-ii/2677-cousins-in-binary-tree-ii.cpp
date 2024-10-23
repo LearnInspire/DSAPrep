@@ -1,4 +1,4 @@
-//Approach-1 (2 Pass)
+/*Approach-1 (2 Pass)
 //T.C : O(2*n)
 //S.C : O(n)
 class Solution {
@@ -61,9 +61,8 @@ public:
         return root;
 
     }
-};
+};*/
 
-/*
 //Approach-2 (1 Pass)
 //T.C : O(n)
 //S.C : O(n)
@@ -110,4 +109,4 @@ public:
 
         return root;
     }
-};*/
+};
