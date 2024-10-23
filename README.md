@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnInspire/DSAPrep/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/LearnInspire/DSAPrep/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/LearnInspire/DSAPrep/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/LearnInspire/DSAPrep/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/LearnInspire/DSAPrep/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/LearnInspire/DSAPrep/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/LearnInspire/DSAPrep/tree/master/0125-valid-palindrome) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/LearnInspire/DSAPrep/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/LearnInspire/DSAPrep/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/LearnInspire/DSAPrep/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/LearnInspire/DSAPrep/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/LearnInspire/DSAPrep/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/LearnInspire/DSAPrep/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnInspire/DSAPrep/tree/master/0121-best-time-to-buy-and-sell-stock) |
