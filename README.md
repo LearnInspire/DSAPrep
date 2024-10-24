@@ -384,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/LearnInspire/DSAPrep/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/LearnInspire/DSAPrep/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/LearnInspire/DSAPrep/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/LearnInspire/DSAPrep/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/LearnInspire/DSAPrep/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/LearnInspire/DSAPrep/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0988-flip-equivalent-binary-trees](https://github.com/LearnInspire/DSAPrep/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/1484-linked-list-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/LearnInspire/DSAPrep/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/LearnInspire/DSAPrep/tree/master/2677-cousins-in-binary-tree-ii) |
